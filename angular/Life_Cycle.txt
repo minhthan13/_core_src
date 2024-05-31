@@ -1,0 +1,2 @@
+https://longnv.name.vn/lap-trinh-angular/vong-doi-cua-component-trong-angular
+https://angularindepth.com/posts/1494/complete-guide-angular-lifecycle-hooks

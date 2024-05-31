@@ -1,0 +1,7 @@
+https://angular.io/guide/deployment#deploy-to-github-pages
+
+
+ng build --configuration production --base-href /<repo-github-pages>/browser/
+
+
+ng build --output-path docs/a3/ --base-href /a3/
